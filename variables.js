@@ -88,4 +88,4 @@ log(sentence);
 
 var on = false;
 var lightSwitch = (on ? 'The light is on.' : 'The light is off.'); //Ternary switch
-log(lightSwitch);
+log(lightSwitch);   
